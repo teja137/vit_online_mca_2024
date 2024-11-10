@@ -32,6 +32,7 @@ Mark your calendar for the upcoming exams:
 This repository is organized by subject to help you find the resources you need:
 
 Each subject folder contains:
+- `notes.md` - A collection of notes from top-performing students for the subject.
 - `topics.md` - List of important topics for the subject.
 - `questions.md` - Practice questions to help you prepare.
 
