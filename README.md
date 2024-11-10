@@ -75,6 +75,6 @@ We welcome contributions! You can help improve this repository by adding or upda
 
 If you have any questions, suggestions, or need help, feel free to open an issue in the **[Issues](https://github.com/teja137/vit_online_mca_2024_important_topicsAndQuestions/issues)** tab. We’re here to help!
 
-### 🌟
+## 🌟
 
 **Good Luck with Your Studies!** 🚀📚 We hope this repository helps you succeed in your MCA exams. Happy learning and contributing! 😊
