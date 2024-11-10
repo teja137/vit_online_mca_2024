@@ -36,7 +36,7 @@ This repository is organized by semester and subject to help you find the resour
    Open the **`questions.md`** file in your selected subject folder to find practice questions that will help you evaluate and strengthen your understanding.
 
 5. **Review the Notes**  
-   Notes for each subject have been organized in **[Wiki](https://github.com/teja137/vit_online_mca_2024_important_topicsAndQuestions/wiki)**.
+   Notes for each subject have been organized in **[Wiki](https://github.com/teja137/vit_online_mca_2024_important_topicsAndQuestions/wiki)**
 
 ## 📘 Subjects Overview
 
