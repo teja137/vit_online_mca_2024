@@ -12,8 +12,6 @@ The subjects are ranked based on difficulty and importance:
 4. **Operating Systems (OS)**
 5. **Python Programming**
 
----
-
 ## 🗓️ Exam Dates
 
 Mark your calendar for the upcoming exams:
@@ -29,8 +27,6 @@ Mark your calendar for the upcoming exams:
   - Morning: **Data Structures and Algorithms (DSA)**
   - Afternoon: **Database Systems (DBMS)**
 
----
-
 ## 📂 Repository Structure
 
 This repository is organized by subject to help you find the resources you need:
@@ -42,8 +38,6 @@ This repository is organized by subject to help you find the resources you need:
 - `/Python Programming` - Topics and questions
 - `/Resources` - Additional resources and past papers
 
----
-
 ## 🤓 Study Tips
 
 - **Prioritize by Difficulty**: Tackle the more challenging subjects (like DSA) first to manage your time and energy efficiently.
@@ -51,8 +45,6 @@ This repository is organized by subject to help you find the resources you need:
 - **Revise Consistently**: Frequently revisit key concepts, especially in subjects that require memorization, like DMS.
 
 Best of luck with your exams! 🚀
-
----
 
 ## How to Contribute
 
