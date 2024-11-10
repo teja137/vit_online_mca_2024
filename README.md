@@ -18,12 +18,10 @@ December 6, 2024
 Afternoon: Discrete Mathematical Structures (DMS)
 
 December 7, 2024
-Morning: Python Programming
-Afternoon: Operating Systems (OS)
+Morning: Python Programming, Afternoon: Operating Systems (OS)
 
 December 8, 2024
-Morning: Data Structures and Algorithms (DSA)
-Afternoon: Database Systems (DBMS)
+Morning: Data Structures and Algorithms (DSA), Afternoon: Database Systems (DBMS)
 
 📂 Repository Structure
 
