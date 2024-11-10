@@ -69,14 +69,11 @@ Mark your calendar for the upcoming Semester-1 exams:
 - **Practice Regularly**: Consistent practice with questions enhances understanding and retention.
 - **Revise Often**: Revisit key concepts regularly, especially for subjects that require memorization.
 
-<<<<<<< HEAD
 Each subject folder contains:
-- `notes.md` - A collection of notes from top-performing students for the subject.
 - `topics.md` - List of important topics for the subject.
 - `questions.md` - Practice questions to help you prepare.
-=======
+
 ## 🔧 How to Contribute
->>>>>>> 6af2f734fa7dffac87caadc53b3edeb67607f60e
 
 We welcome contributions! You can help improve this repository by adding or updating content. Here’s how you can contribute:
 
