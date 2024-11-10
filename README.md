@@ -8,7 +8,7 @@ This repository is organized by semester and subject to help you find the resour
 
 ### Folder Layout
 
-- `/Semester-1/`
+- `/semester-1/`
     - `/Data Structures and Algorithms/`
     - `/Discrete Mathematical Structures/`
     - `/Database Management Systems/`
@@ -27,8 +27,8 @@ Each subject folder contains the following files:
 
 2. **Select the Subject**  
    Inside the **semester** folder, choose the subject you want to study. For example:
-   - **Data Structures and Algorithms**: `/Semester-1/Data Structures and Algorithms/`
-   - **Discrete Mathematical Structures**: `/Semester-1/Discrete Mathematical Structures/`
+   - **Data Structures and Algorithms**: `/semester-1/Data Structures and Algorithms/`
+   - **Discrete Mathematical Structures**: `/semester-1/Discrete Mathematical Structures/`
 
 3. **Study Topics**  
    Open the **`topics.md`** file within the chosen subject folder to view a list of important topics. These topics are selected based on the syllabus and exam pattern, making them essential for your preparation.
