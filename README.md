@@ -30,11 +30,11 @@ Each subject folder contains the following files:
    - **Data Structures and Algorithms**: `/semester-1/Data Structures and Algorithms/`
    - **Discrete Mathematical Structures**: `/semester-1/Discrete Mathematical Structures/`
 
-3. **Study Topics**  
-   Open the **`topics.md`** file within the chosen subject folder to view a list of important topics. These topics are selected based on the syllabus and exam pattern, making them essential for your preparation.
+3. **Explore Key Topics**  
+   Open the **`topics.md`** file in your selected subject folder to discover the most important topics you need to focus on.
 
-4. **Practice with Questions**  
-   After reviewing the topics, open the **`questions.md`** file to find a set of practice questions for that subject. These questions will help you test your understanding and prepare for the exams.
+4. **Test Your Knowledge**  
+   Open the **`questions.md`** file in your selected subject folder to find practice questions that will help you evaluate and strengthen your understanding.
 
 ## 📘 Subjects Overview
 
