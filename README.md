@@ -80,11 +80,10 @@ We welcome contributions! You can help improve this repository by adding or upda
 3. **Commit Your Changes**  
    Once you're done editing, commit your changes with a clear and descriptive commit message.
 
-4. **Submit a Pull Request (PR)**  
-   Open a pull request (PR) to propose your changes. A repository maintainer will review your contributions.
+4. **Submit a Pull Request (PR)**
+    Submit your changes via a pull request (PR). The system will automatically review, approve, and merge your PR without manual intervention.
 
-5. **Automatic Approval**  
-   All contributions will be reviewed and automatically approved. Thank you for your valuable contributions!
+   **Thank you for your valuable contributions!**
 
 ## ⚠️ Disclaimer
 
