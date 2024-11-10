@@ -26,10 +26,15 @@ Morning: Data Structures and Algorithms (DSA)
 Afternoon: Database Systems (DBMS)
 
 📂 Repository Structure
+
 /Data Structures and Algorithms - topics and questions
+
 /Discrete Mathematical Structures - topics and questions
+
 /Database Management Systems - topics and questions
+
 /Operating Systems - topics and questions
+
 /Python Programming - topics and questions
 
 /Resources - Additional resources and past papers
