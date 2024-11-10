@@ -40,11 +40,11 @@ Each subject folder contains the following files:
 
 **Semester-1:
 
-5. **Python Programming**
+1. **Python Programming**
 2. **Discrete Mathematical Structures (DMS)**
 3. **Database Management Systems (DBMS)**
-1. **Data Structures and Algorithms (DSA)**
-4. **Operating Systems (OS)**
+4. **Data Structures and Algorithms (DSA)**
+5. **Operating Systems (OS)**
 
 ## 🗓️ Exam Dates
 
