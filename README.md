@@ -1,10 +1,10 @@
 # VIT Online MCA 2024 - Important Topics and Questions
 
-Welcome to the **vit_online_mca_2024_sem1_important_topicsAndQuestions** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and questions across all semesters, with a focus on key subjects from the 2024 syllabus.
+Welcome to the **vit_online_mca_2024_important_topicsAndQuestions** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and questions across all semesters, with a focus on key subjects from the 2024 syllabus.
 
 ## 📘 Subjects Overview
 
-The subjects are ranked based on difficulty and importance:
+📚 Semester-1: Subject Ranking by Difficulty & Importance
 
 1. **Data Structures and Algorithms (DSA)**
 2. **Discrete Mathematical Structures (DMS)**
@@ -12,7 +12,7 @@ The subjects are ranked based on difficulty and importance:
 4. **Operating Systems (OS)**
 5. **Python Programming**
 
-## 🗓️ Exam Dates
+🗓️ Semester-1: Exam Dates
 
 Mark your calendar for the upcoming exams:
 
@@ -37,18 +37,18 @@ Each subject folder contains:
 
 #### Folder Layout
 
-- `/Data Structures and Algorithms/`
-- `/Discrete Mathematical Structures/`
-- `/Database Management Systems/`
-- `/Operating Systems/`
-- `/Python Programming/`
-- `/Resources/` - Additional resources and past papers
+- `/Semester-1/`
+      - `/Data Structures and Algorithms/`
+      - `/Discrete Mathematical Structures/`
+      - `/Database Management Systems/`
+      - `/Operating Systems/`
+      - `/Python Programming/`
 
 ## 🤓 Study Tips
 
-- **Prioritize by Difficulty**: Tackle the more challenging subjects (like DSA) first to manage your time and energy efficiently.
+- **Prioritize by Difficulty**: Tackle the more challenging subjects first to manage your time and energy efficiently.
 - **Practice Questions Daily**: Regular practice strengthens your understanding and improves retention.
-- **Revise Consistently**: Frequently revisit key concepts, especially in subjects that require memorization, like DMS.
+- **Revise Consistently**: Frequently revisit key concepts, especially in subjects that require memorization.
 
 Best of luck with your exams! 🚀
 
