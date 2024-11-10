@@ -18,7 +18,6 @@ This repository is organized by semester and subject to help you find the resour
 - Each subject folder contains the following:
      - `topics.md` - List of important topics for the subject.
      - `questions.md` - Practice questions to help you prepare.
-     - `/notes/` - A collection of notes from top-performing students for the subject.
 
 ## 🔍 How to Navigate the Repository
 
