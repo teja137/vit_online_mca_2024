@@ -80,8 +80,8 @@ We welcome contributions! You can help improve this repository by adding or upda
 3. **Commit Your Changes**  
    Once you're done editing, commit your changes with a clear and descriptive commit message.
 
-4. **Submit a Pull Request (PR)**
-    Submit your changes via a pull request (PR). The system will automatically review, approve, and merge your PR without manual intervention. **Thank you for your valuable contributions!**
+4. **Submit a Pull Request (PR)**  
+   Submit your changes via a pull request (PR). The system will automatically review, approve, and merge your PR without manual intervention. **Thank you for your valuable contributions!**
 
 ## ⚠️ Disclaimer
 
