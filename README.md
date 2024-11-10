@@ -15,14 +15,13 @@ The subjects are ranked based on difficulty and importance:
 Mark your calendar for the upcoming exams:
 
 December 6, 2024
-
 Afternoon: Discrete Mathematical Structures (DMS)
-December 7, 2024
 
+December 7, 2024
 Morning: Python Programming
 Afternoon: Operating Systems (OS)
-December 8, 2024
 
+December 8, 2024
 Morning: Data Structures and Algorithms (DSA)
 Afternoon: Database Systems (DBMS)
 
