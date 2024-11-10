@@ -31,26 +31,17 @@ Mark your calendar for the upcoming exams:
 
 This repository is organized by subject to help you find the resources you need:
 
+Each subject folder contains:
+- `topics.md` - List of important topics for the subject.
+- `questions.md` - Practice questions to help you prepare.
+
+#### Folder Layout
+
 - `/Data Structures and Algorithms/`
-  - `topics.md`
-  - `questions.md`
-
 - `/Discrete Mathematical Structures/`
-  - `topics.md`
-  - `questions.md`
-
 - `/Database Management Systems/`
-  - `topics.md`
-  - `questions.md`
-
 - `/Operating Systems/`
-  - `topics.md`
-  - `questions.md`
-
 - `/Python Programming/`
-  - `topics.md`
-  - `questions.md`
-
 - `/Resources/` - Additional resources and past papers
 
 ## 🤓 Study Tips
