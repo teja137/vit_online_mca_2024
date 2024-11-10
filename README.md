@@ -2,7 +2,7 @@
 
 Welcome to the **vit_online_mca_2024_important_topicsAndQuestions** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and questions across all semesters, with a focus on key subjects from the 2024 syllabus.
 
-## 📘 Subjects Overviewc
+## 📘 Subjects Overview
 
 📚 Semester-1: Subject Ranking by Difficulty & Importance
 
