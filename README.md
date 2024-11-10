@@ -1,6 +1,6 @@
 # VIT Online MCA 2024 - Important Topics and Questions
 
-Welcome to the **vit_online_mca_2024_important_topicsAndQuestions** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and practice questions across all semesters, with a focus on key subjects from the 2024 syllabus.
+Welcome to the **vit_online_mca_2024** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and practice questions across all semesters, with a focus on key subjects from the 2024 syllabus.
 
 ## 📂 Repository Structure
 
