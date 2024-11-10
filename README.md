@@ -38,7 +38,7 @@ Each subject folder contains the following files:
 
 ## 📘 Subjects Overview
 
-**Semester-1:
+**Semester-1:**
 
 1. **Python Programming**
 2. **Discrete Mathematical Structures (DMS)**
