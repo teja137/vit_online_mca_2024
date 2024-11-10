@@ -40,7 +40,7 @@ This repository is organized by subject to help you find the resources you need:
     - `/Operating Systems/`
     - `/Python Programming/`
 
-Each subject folder contains:
+**Each subject folder contains:**
 - `topics.md` - List of important topics for the subject.
 - `questions.md` - Practice questions to help you prepare.
 
