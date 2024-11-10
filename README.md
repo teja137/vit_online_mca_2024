@@ -38,13 +38,13 @@ Each subject folder contains the following files:
 
 ## 📘 Subjects Overview
 
-**Semester-1: Subject Ranking by Difficulty & Importance**
+**Semester-1:
 
-1. **Data Structures and Algorithms (DSA)**
+5. **Python Programming**
 2. **Discrete Mathematical Structures (DMS)**
 3. **Database Management Systems (DBMS)**
+1. **Data Structures and Algorithms (DSA)**
 4. **Operating Systems (OS)**
-5. **Python Programming**
 
 ## 🗓️ Exam Dates
 
