@@ -31,12 +31,27 @@ Mark your calendar for the upcoming exams:
 
 This repository is organized by subject to help you find the resources you need:
 
-- `/Data Structures and Algorithms` - Topics and questions
-- `/Discrete Mathematical Structures` - Topics and questions
-- `/Database Management Systems` - Topics and questions
-- `/Operating Systems` - Topics and questions
-- `/Python Programming` - Topics and questions
-- `/Resources` - Additional resources and past papers
+- `/Data Structures and Algorithms/`
+  - `topics.md`
+  - `questions.md`
+
+- `/Discrete Mathematical Structures/`
+  - `topics.md`
+  - `questions.md`
+
+- `/Database Management Systems/`
+  - `topics.md`
+  - `questions.md`
+
+- `/Operating Systems/`
+  - `topics.md`
+  - `questions.md`
+
+- `/Python Programming/`
+  - `topics.md`
+  - `questions.md`
+
+- `/Resources/` - Additional resources and past papers
 
 ## 🤓 Study Tips
 
