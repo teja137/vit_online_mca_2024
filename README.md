@@ -38,11 +38,12 @@ Each subject folder contains:
 #### Folder Layout
 
 - `/Semester-1/`
-      - `/Data Structures and Algorithms/`
-      - `/Discrete Mathematical Structures/`
-      - `/Database Management Systems/`
-      - `/Operating Systems/`
-      - `/Python Programming/`
+    - `/Data Structures and Algorithms/`
+    - `/Discrete Mathematical Structures/`
+    - `/Database Management Systems/`
+    - `/Operating Systems/`
+    - `/Python Programming/`
+
 
 ## 🤓 Study Tips
 
