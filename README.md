@@ -44,3 +44,25 @@ Practice Questions Daily: Regular practice solidifies understanding and improves
 Revise Consistently: Revisit key concepts, especially in subjects that need memorization like DMS.
 
 Best of luck with your exams!
+
+
+# How to Contribute
+
+We welcome contributions! Follow these simple steps to get started:
+
+1. **Fork this Repository**  
+   Click on the "Fork" button at the top right to copy this repo to your GitHub account.
+
+2. **Make Your Edits**  
+   Add your contributions by editing any relevant files. 
+
+3. **Commit Your Changes**  
+   Once you’re done, commit your updates with a clear and descriptive commit message.
+
+4. **Submit a Pull Request**  
+   Open a pull request (PR) from your forked repository to propose your changes.
+
+5. **Automatic Approval**  
+   All contributions are automatically reviewed and approved! 🎉
+
+Thank you for helping improve this project!
