@@ -18,6 +18,7 @@ This repository is organized by semester and subject to help you find the resour
 - Each subject folder contains the following:
      - `topics.md` - List of important topics for the subject.
      - `questions.md` - Practice questions to help you prepare.
+     - `/resources/` - Contains Midsem and digital assessments, along with module-wise materials.
 
 ## 🔍 How to Navigate the Repository
 
