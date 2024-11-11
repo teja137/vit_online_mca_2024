@@ -1,6 +1,6 @@
 # VIT Online MCA 2024 - Important Topics and Questions
 
-Welcome to the **vit_online_mca_2024_important_topicsAndQuestions** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and practice questions across all semesters, with a focus on key subjects from the 2024 syllabus.
+Welcome to the **vit_online_mca_2024** repository! This resource is designed to help MCA students at VIT prepare effectively for their exams, covering essential topics and practice questions across all semesters, with a focus on key subjects from the 2024 syllabus.
 
 ## 📂 Repository Structure
 
@@ -35,6 +35,9 @@ This repository is organized by semester and subject to help you find the resour
 4. **Test Your Knowledge**  
    Open the **`questions.md`** file in your selected subject folder to find practice questions that will help you evaluate and strengthen your understanding.
 
+5. **Review the Notes**  
+   Notes for each subject have been organized in **[Wiki](https://github.com/teja137/vit_online_mca_2024_important_topicsAndQuestions/wiki)**
+
 ## 📘 Subjects Overview
 
 **Semester-1:**
@@ -66,14 +69,11 @@ Mark your calendar for the upcoming Semester-1 exams:
 - **Practice Regularly**: Consistent practice with questions enhances understanding and retention.
 - **Revise Often**: Revisit key concepts regularly, especially for subjects that require memorization.
 
-<<<<<<< HEAD
 Each subject folder contains:
-- `notes.md` - A collection of notes from top-performing students for the subject.
 - `topics.md` - List of important topics for the subject.
 - `questions.md` - Practice questions to help you prepare.
-=======
+
 ## 🔧 How to Contribute
->>>>>>> 6af2f734fa7dffac87caadc53b3edeb67607f60e
 
 We welcome contributions! You can help improve this repository by adding or updating content. Here’s how you can contribute:
 
